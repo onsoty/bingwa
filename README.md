@@ -1,0 +1,2 @@
+# bingwa
+A School Website
